@@ -1,0 +1,97 @@
+OpenVpn
+/*************************************************
+Host: vpnserv.psgbd.com
+Brain Station 2019
+Email : brain2019@psgbd.com
+Password : B4@in2019
+
+Email: brainstation
+Password: Br@1n@Psg
+
+
+Admin Dashboard
+/***************************************************
+Brain Station 23 Ltd
+Email : brain23@psgbd.com
+Password : Br@inSt@tion
+
+
+Other Dashboard
+/***************************************************
+Brain Station 2019
+Email : brain2019@psgbd.com
+Password : B4@in2019	
+
+
+Brain Station 2018
+Email : brain2018@psgbd.com
+Password : Br@$n2018
+
+
+
+Brain Station 2017
+Email : brain2017@psgbd.com
+Password : B4@in2017
+
+
+
+Brain Station 2016
+Email : brain2016@psgbd.com
+Password : Br@$n2016
+
+
+Brain Station 2015
+Email : brain2015@psgbd.com
+Password : Br@$n2015
+
+
+
+
+/***************************
+Outlook creadiential
+/***************************
+https://mail.partexstargroup.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.partexstargroup.com%2fowa%2f
+
+U: partexstargroup\brain23
+p: 
+
+
+SSH Access
+/************************************
+IP Address: 192.168.12.179
+User: root
+Password: Ed@p#2018
+
+
+
+/***********************
+Phpmyadmin access
+************************/
+http://192.168.12.179/phpdbautomation/
+u: root
+p: #Ah.p8H\bFYwv,#
+P+&u)~DY34.jy3X~_mQ3
+
+
+Log download
+New setup, complete new setup
+total server secure
+	Strong password
+	PHPMyAdmin not accessible
+
+
+
+Dev server new
+192.168.11.118
+user: amsuat
+pass: AMS@2019
+
+
+Dev server new
+192.168.11.9
+user: amsdev
+pass: AMS@2019
+// Phpmyadmin
+root
+5xLLDupQ9qEcQHqv
+
